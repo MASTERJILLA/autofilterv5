@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/selfie-bd/autofilterv5",
-    "repository": "https://github.com/selfie-bd/autofilterv5",
+    "website": "https://github.com/MASTERJILLA/autofilterv5",
+    "repository": "https://github.com/MASTERJILLA/autofilterv5",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
